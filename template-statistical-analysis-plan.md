@@ -10,10 +10,8 @@ Brief description of the scientific or practical problem motivating the analysis
 
 ### 1.2 Objectives
 
-Clearly state the analytical objectives.
-
+Clearly state the analysis objectives.
 - Primary objective(s): 1, 2, 3, ...
-
 - Secondary / exploratory objective(s): 1, 2, 3, ...
 
 ## 2. Data and Statistical Methods
@@ -21,21 +19,19 @@ Clearly state the analytical objectives.
 ### 2.1 Data sources and structure
 
 Data source(s) and how data were generated
-
-- Independent unit of analysis
-- **Effect Size** and justification of **Sample size** (planned or fixed)
-- Experimental design (if relevant), sampling design (e.g. groups, time, space, plots, fields, etc.)
+- Independent **unit(s) of analysis**
+- Expected **effect size** and justification of **Sample size** (planned or fixed)
+- **Experimental design** (if relevant), **sampling design** (e.g. groups, time, space, plots, fields, etc.)
 
 ### 2.2 Variables
 
 Description of variables, such as Identifying:
-- Outcome variable(s)	
+- Dependent variable(s)	
 - Key predictors / exposures	
 - Covariates / confounders	
 - Grouping / random effects	
 
 ### 2.3 Data handling and quality control
-
 - Inclusion and exclusion criteria
 - Missing data approach
 - Outliers and data validation
@@ -44,7 +40,6 @@ Description of variables, such as Identifying:
 ### 2.4 Statistical analysis strategy
 
 Overall analytical approach, including:
-
 - Exploratory vs confirmatory emphasis
 - Modelling philosophy (explanatory, predictive, parsimonious)
 - Statistical framework (e.g. frequentist, Bayesian)
@@ -52,10 +47,9 @@ Overall analytical approach, including:
 ### 2.5 Primary analysis
 
 For each primary objective:
-
-- Statistical model(s) to be used
-- Key predictors and adjustments
-- Assumptions to be assessed
+- **Statistical model**(s) to be used
+- **Key predictors** and adjustments
+- **Assumptions** to be assessed
 - Estimands or contrasts of interest
 
 ### 2.6 Secondary and sensitivity analyses
@@ -68,27 +62,21 @@ For each primary objective:
 ## 3. Outputs, Interpretation & Reporting
 ### 3.1 Planned outputs
 
-Tables (e.g. model estimates, uncertainty)
-
-Figures (e.g. effect plots, diagnostics)
-
-Summary statistics
+- Tables (e.g. model estimates, uncertainty)
+- Figures (e.g. effect plots, diagnostics)
+- Summary statistics
 
 ### 3.2 Interpretation principles
 
-Emphasis on effect sizes and uncertainty
-
-Scientific or practical relevance
-
-Limitations and caveats (e.g. causal interpretation)
+- Emphasis on effect sizes and uncertainty
+- Scientific or practical relevance
+- Limitations and caveats (e.g. causal interpretation)
 
 ## 4. Reproducibility & Amendments
 
-Software and versions
-
-Reproducibility approach (scripts, notebooks, version control)
-
-Criteria for deviations from this plan and how they will be documented
+- Software and versions
+- Reproducibility approach (scripts, notebooks, version control)
+- Criteria for deviations from this plan and how they will be documented
 
 Optional sign-off (as required)
 
@@ -99,8 +87,10 @@ Optional sign-off (as required)
 
 ## Resources
 
-Cressman, K.A., Sharp, J.L., n.d. Crafting statistical analysis plans: A cross‐discipline approach.
+Cressman, K.A., Sharp, J.L., 2022. Crafting statistical analysis plans: A cross‐discipline approach. Stat 11, e528.
 
 Stevens, G., Dolley, S., Mogg, R., Connor, J.T., 2023. A template for the authoring of statistical analysis plans. Contemp Clin Trials Commun 34, 101100.
 
-Yuan, I., Topjian, A.A., Kurth, C.D., Kirschen, M.P., Ward, C.G., Zhang, B., Mensinger, J.L., n.d. Guide to the statistical analysis plan.
+Yuan, I., Topjian, A.A., Kurth, C.D., Kirschen, M.P., Ward, C.G., Zhang, B., Mensinger, J.L., 2019. Guide to the statistical analysis plan. Pediatric Anaesthesia 29, 237–242.
+
+
