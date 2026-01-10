@@ -128,3 +128,15 @@ git rebase --continue
 # Push rebased branch
 git push --force-with-lease origin feature-branch
 ```
+
+## References and Resources
+
+[First time Git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+
+[Git Cheatsheet from Git SCM](https://git-scm.com/cheat-sheet)
+
+[Official Git tutorial](https://git-scm.com/docs/gittutorial)
+
+[Posit Git video](https://www.youtube.com/watch?v=RwLxCk6bDnY)
+
+[Posit using Git with VS Code](https://docs.posit.co/ide/server-pro/user/vs-code/guide/git.html)
