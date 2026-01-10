@@ -13,5 +13,5 @@ This is a collection of cheatsheets and templates that might be useful to applie
 ## Cheatsheets
 [(Back to top)](#templates-and-cheatsheets)
 
-[Cheatsheet - Git]()
+[Cheatsheet - Git](https://github.com/weharris/templates-cheatsheets/blob/main/cheatsheet-git.md)
 
