@@ -28,7 +28,7 @@ git init
 # Add all files to staging
 git add . 
 
-# Create initial commit + "comment"
+# Create initial commit + "comment" (-m designates message)
 git commit -m "Initial commit" 
 
 # Create a new repository on GitHub (via web interface)
