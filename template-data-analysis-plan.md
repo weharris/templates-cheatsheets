@@ -1,4 +1,4 @@
-# Template for a Statistical Analysis Plan
+# Template for a Data Analysis Plan
 
 ## 0. Title of project
 

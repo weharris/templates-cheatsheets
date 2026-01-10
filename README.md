@@ -8,7 +8,7 @@ This is a collection of cheatsheets and templates that might be useful to applie
 ## Templates
 [(Back to top)](#templates-and-cheatsheets)
 
-[Template - Statistical Analysis Plan](https://github.com/weharris/templates-cheatsheets/blob/main/template-statistical-analysis-plan.md)
+[Template - Data Analysis Plan](https://github.com/weharris/templates-cheatsheets/blob/main/template-data-analysis-plan.md)
 
 ## Cheatsheets
 [(Back to top)](#templates-and-cheatsheets)
