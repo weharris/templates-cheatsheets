@@ -97,3 +97,10 @@ Optional sign-off (as required)
 - Supervisor:
 - Date:
 
+## Resources
+
+Cressman, K.A., Sharp, J.L., n.d. Crafting statistical analysis plans: A cross‐discipline approach.
+
+Stevens, G., Dolley, S., Mogg, R., Connor, J.T., 2023. A template for the authoring of statistical analysis plans. Contemp Clin Trials Commun 34, 101100.
+
+Yuan, I., Topjian, A.A., Kurth, C.D., Kirschen, M.P., Ward, C.G., Zhang, B., Mensinger, J.L., n.d. Guide to the statistical analysis plan.
