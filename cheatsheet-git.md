@@ -6,6 +6,7 @@
 - [Initialize and push a new repo](#initialize-and-push-a-new-repo)
 - [Rebase basics](#rebase-basics)
 - [Rebase workflow, typical](#rebase-workflow-typical)
+- [References and resources](#references-and-resources)
 
 ## Push changes to an existing repo
 [(Back to top)](#cheatsheet-for-git)
@@ -129,7 +130,8 @@ git rebase --continue
 git push --force-with-lease origin feature-branch
 ```
 
-## References and Resources
+## References and resources
+[(Back to top)](#cheatsheet-for-git)
 
 [First time Git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
