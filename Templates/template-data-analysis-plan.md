@@ -1,29 +1,29 @@
 # Template for a Data Analysis Plan
 
-## 0. Title of project
+## Title: Your project title
 
-## 1. Background & Objectives
+## Background & Objectives
 
-### 1.1 Background
+### Background
 
 Brief description of the scientific or practical problem motivating the analysis, including why this analysis is being undertaken and any important constraints (e.g. observational data, fixed sample size).
 
-### 1.2 Objectives
+### Objectives
 
 Clearly state the analysis objectives.
 - Primary objective(s): 1, 2, 3, ...
 - Secondary / exploratory objective(s): 1, 2, 3, ...
 
-## 2. Data and Statistical Methods
+## Data and Statistical Methods
 
-### 2.1 Data sources and structure
+### Data sources and structure
 
 Data source(s) and how data were generated
 - Independent **unit(s) of analysis**
 - Expected **effect size** and justification of **Sample size** (planned or fixed)
 - **Experimental design** (if relevant), **sampling design** (e.g. groups, time, space, plots, fields, etc.)
 
-### 2.2 Variables
+### Variables
 
 Description of variables, such as Identifying:
 - Dependent variable(s)	
@@ -31,20 +31,20 @@ Description of variables, such as Identifying:
 - Covariates / confounders	
 - Grouping / random effects	
 
-### 2.3 Data handling and quality control
+### Data handling and quality control
 - Inclusion and exclusion criteria
 - Missing data approach
 - Outliers and data validation
 - Transformations or derived variables
 
-### 2.4 Statistical analysis strategy
+### Statistical analysis strategy
 
 Overall analytical approach, including:
 - Exploratory vs confirmatory emphasis
 - Modelling philosophy (explanatory, predictive, parsimonious)
 - Statistical framework (e.g. frequentist, Bayesian)
 
-### 2.5 Primary analysis
+### Primary analysis
 
 For each primary objective:
 - **Statistical model**(s) to be used
@@ -52,27 +52,27 @@ For each primary objective:
 - **Assumptions** to be assessed
 - Estimands or contrasts of interest
 
-### 2.6 Secondary and sensitivity analyses
+### Secondary and sensitivity analyses
 
 - Alternative model specifications
 - Subgroup or stratified analyses
 - Robustness checks or sensitivity analyses
 - Multiple testing considerations (if relevant)
 
-## 3. Outputs, Interpretation & Reporting
-### 3.1 Planned outputs
+## Outputs, Interpretation & Reporting
+### Planned outputs
 
 - Tables (e.g. model estimates, uncertainty)
 - Figures (e.g. effect plots, diagnostics)
 - Summary statistics
 
-### 3.2 Interpretation principles
+### Interpretation principles
 
 - Emphasis on effect sizes and uncertainty
 - Scientific or practical relevance
 - Limitations and caveats (e.g. causal interpretation)
 
-## 4. Reproducibility & Amendments
+## Reproducibility & Amendments
 
 - Software and versions
 - Reproducibility approach (scripts, notebooks, version control)
