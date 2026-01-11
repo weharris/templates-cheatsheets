@@ -11,6 +11,7 @@ This is a collection of cheatsheets and templates that might be useful to applie
 
 ## Cheatsheets [(Back to top)](#templates-and-cheatsheets)
 
-[Cheatsheet - Git](https://github.com/weharris/templates-cheatsheets/blob/main/Cheetsheets/cheatsheet-git.md)
+[Cheatsheet - Git](https://github.com/weharris/templates-cheatsheets/blob/main/Cheetsheets/git/cheatsheet-git.md)
 
+[Cheatsheet - Premier Pro]()
  
