@@ -11,7 +11,7 @@ format:
     fontsize: 11pt
     linestretch: 1.5
     toc: true
-    toc-depth: 2
+    toc-depth: 1
     number-sections: true
     colorlinks: true
     keep-tex: false
