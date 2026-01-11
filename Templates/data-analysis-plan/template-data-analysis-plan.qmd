@@ -114,6 +114,8 @@ Overall analytical approach, including:
 
 Cressman, K.A., Sharp, J.L., 2022. Crafting statistical analysis plans: A cross‐discipline approach. *Stat* 11, e528.
 
+Simpson, S.H., 2015. Creating a Data Analysis Plan: What to Consider When Choosing Statistics for a Study. *Can J Hosp Pharm* 68, 311–317.
+
 Stevens, G., Dolley, S., Mogg, R., Connor, J.T., 2023. A template for the authoring of statistical analysis plans. *Contemp Clin Trials Commun* 34, 101100.
 
 Yuan, I., Topjian, A.A., Kurth, C.D., Kirschen, M.P., Ward, C.G., Zhang, B., Mensinger, J.L., 2019. Guide to the statistical analysis plan. *Pediatric Anaesthesia* 29, 237–242.
