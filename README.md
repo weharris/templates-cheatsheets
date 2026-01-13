@@ -7,7 +7,7 @@ This is a collection of cheatsheets and templates that might be useful to applie
 
 ## Templates [(Back to top)](#templates-and-cheatsheets)
 
-[Template - Data Analysis Plan](https://github.com/weharris/templates-cheatsheets/blob/main/Templates/data-analysis-plan/template-data-analysis-plan.md)
+[Template - Data Analysis Plan](https://github.com/weharris/templates-cheatsheets/blob/main/Templates/data-analysis-plan/template-data-analysis-plan.md) :: [DAP Example files]()
 
 ## Cheatsheets [(Back to top)](#templates-and-cheatsheets)
 

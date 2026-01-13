@@ -89,6 +89,8 @@ Optional sign-off (as required)
 
 Cressman, K.A., Sharp, J.L., 2022. Crafting statistical analysis plans: A cross‐discipline approach. Stat 11, e528.
 
+Gamble, C., Krishan, A., Stocken, D., Lewis, S., Juszczak, E., Doré, C., Williamson, P.R., Altman, D.G., Montgomery, A., Lim, P., Berlin, J., Senn, S., Day, S., Barbachano, Y., Loder, E., 2017. Guidelines for the Content of Statistical Analysis Plans in Clinical Trials. JAMA 318, 2337–2343.
+
 Simpson, S.H., 2015. Creating a Data Analysis Plan: What to Consider When Choosing Statistics for a Study. Can J Hosp Pharm 68, 311–317.
 
 Stevens, G., Dolley, S., Mogg, R., Connor, J.T., 2023. A template for the authoring of statistical analysis plans. Contemp Clin Trials Commun 34, 101100.
