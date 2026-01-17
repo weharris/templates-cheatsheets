@@ -7,3 +7,5 @@ ctrl + shift + space **toggle voice mode**
 alt + Z **toggle word wrap!**
 
 ctrl + shift + F4 **Toggle visual editor in Quarto!**
+
+ctrl + L **Open AI chat pane**
