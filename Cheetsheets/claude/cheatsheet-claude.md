@@ -1,6 +1,11 @@
 # Cheatsheet for Claude
 
+# Windows users
+`wsl npm install -g @anthropic-ai/claude-code`
+
 `claude` + enter            # launch Claude.
+`claude --version`          # check version
+
 `/init`                     # at project start, analyze code base and create `CLAUDE.md`
 `CLAUDE.md`, `CLAUDE.local.md`, `~/.claude/CLAUDE.md` - local public, local private, global
 `#`                          # memory mode, add instruction to CLAUDE.md
