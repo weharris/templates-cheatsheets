@@ -1,9 +1,9 @@
 # Cheatsheet for Claude
 
-# Windows users
-`wsl npm install -g @anthropic-ai/claude-code`
 
-`claude` + enter            # launch Claude. <br>
+`wsl npm install -g @anthropic-ai/claude-code` # Windows users <br>
+
+`claude + enter`            # launch Claude. <br>
 `claude --version`          # check version
 
 `/init`                     # at project start, analyze code base and create `CLAUDE.md` <br>
