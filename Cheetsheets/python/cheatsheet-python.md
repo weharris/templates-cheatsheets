@@ -2,6 +2,7 @@
 
 
 ## Data types
+```python
 my_integer_var = 10
 print(type(my_integer_var))  # <class 'int'>
 
@@ -31,3 +32,17 @@ print(type(my_list)) # <class 'list'>
 
 my_none_var = None
 print(type(my_none_var))  # <class 'NoneType'>
+```
+
+## String methods
+
+```python
+my_string = "Hello, World!"
+print(my_string.upper())  # HELLO, WORLD!
+print(my_string.lower())  # hello, world!
+print(my_string.split())  # ['Hello,', 'World!']
+print(my_string.replace('Hello', 'Goodbye'))  # Goodbye, World!
+print(my_string.find('World'))  # 7
+print(my_string.index('World'))  # 7
+print(my_string.title())  # Hello, World!
+```
