@@ -1,5 +1,6 @@
 # Python cheatsheet
 
+[Njengah's cheatsheet](https://github.com/Njengah/claude-code-cheat-sheet)
 
 ## Data types
 ```python
