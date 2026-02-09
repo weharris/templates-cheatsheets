@@ -1,6 +1,6 @@
 # Cheatsheet for Claude
 
-
+```bash
 `wsl npm install -g @anthropic-ai/claude-code` # Windows users <br>
 
 `claude + enter`            # launch Claude. <br>
@@ -17,3 +17,4 @@
 `/clear`                    # Clear conversation history <br>
 `/config`                   # Open config panel <br>
 `/doctor`                   # Check Claude Code installation health <br>
+```
