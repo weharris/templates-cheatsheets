@@ -1,7 +1,7 @@
 # Cheatsheet for Claude
 
 ```bash
-# Windows users
+# Windows installation
 `wsl npm install -g @anthropic-ai/claude-code` 
 
 # local public, local private, global
