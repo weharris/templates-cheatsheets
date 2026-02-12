@@ -6,8 +6,8 @@ This is a collection of cheatsheets and templates that might be useful to applie
 
 [Git](https://github.com/weharris/templates-cheatsheets/blob/main/Cheetsheets/git/cheatsheet-git.md) :: 
 [Premier Pro](https://github.com/weharris/templates-cheatsheets/blob/main/Cheetsheets/premier-pro/premier-pro.md) :: 
-[Claude](https://github.com/weharris/templates-cheatsheets/blob/main/Cheetsheets/cheatsheet-claude/cheatsheet-claude.md) :: 
-[Cursor](https://github.com/weharris/templates-cheatsheets/blob/main/Cheetsheets/cheatsheet-cursor/cheatsheet-cursor.md)
+[Claude](https://github.com/weharris/templates-cheatsheets/blob/main/Cheetsheets/claude/cheatsheet-claude.md) :: 
+[Cursor](https://github.com/weharris/templates-cheatsheets/blob/main/Cheetsheets/cursor/cheatsheet-cursor.md)
 
 ## Templates 
 
